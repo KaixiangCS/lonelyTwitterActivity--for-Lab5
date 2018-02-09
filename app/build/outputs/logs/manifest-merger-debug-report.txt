@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a9893efed829fbbfdc09dd0ffef84027/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2bbcfea012dacabfaa9bed2dea0c961e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/195c6cf40bd38cbbffbcbbd149212cbd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e4dc10af50f84c8ad79ed0701a596095/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7cf69b69a23843fa39098a5ce7b9dbf4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/58a91703556d39bc1fb4bd90b6a38adf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cb3f13f1f4ae4734ba4c629629c436b8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff9fff42058ec676a629dbe752771761/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cdcc51becbd71ef74747b842cc2ee989/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8182275efa7fbe62299bd7d2e12fd07/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a9893efed829fbbfdc09dd0ffef84027/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a9893efed829fbbfdc09dd0ffef84027/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2bbcfea012dacabfaa9bed2dea0c961e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2bbcfea012dacabfaa9bed2dea0c961e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/195c6cf40bd38cbbffbcbbd149212cbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/195c6cf40bd38cbbffbcbbd149212cbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e4dc10af50f84c8ad79ed0701a596095/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e4dc10af50f84c8ad79ed0701a596095/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7cf69b69a23843fa39098a5ce7b9dbf4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7cf69b69a23843fa39098a5ce7b9dbf4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/58a91703556d39bc1fb4bd90b6a38adf/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/58a91703556d39bc1fb4bd90b6a38adf/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cb3f13f1f4ae4734ba4c629629c436b8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cb3f13f1f4ae4734ba4c629629c436b8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff9fff42058ec676a629dbe752771761/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff9fff42058ec676a629dbe752771761/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cdcc51becbd71ef74747b842cc2ee989/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cdcc51becbd71ef74747b842cc2ee989/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8182275efa7fbe62299bd7d2e12fd07/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8182275efa7fbe62299bd7d2e12fd07/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:7:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a9893efed829fbbfdc09dd0ffef84027/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:7:5-44
+		INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:12:22-64
+application
+ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:14:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a9893efed829fbbfdc09dd0ffef84027/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a9893efed829fbbfdc09dd0ffef84027/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2bbcfea012dacabfaa9bed2dea0c961e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2bbcfea012dacabfaa9bed2dea0c961e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/195c6cf40bd38cbbffbcbbd149212cbd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/195c6cf40bd38cbbffbcbbd149212cbd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e4dc10af50f84c8ad79ed0701a596095/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e4dc10af50f84c8ad79ed0701a596095/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7cf69b69a23843fa39098a5ce7b9dbf4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7cf69b69a23843fa39098a5ce7b9dbf4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/58a91703556d39bc1fb4bd90b6a38adf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/58a91703556d39bc1fb4bd90b6a38adf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cb3f13f1f4ae4734ba4c629629c436b8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cb3f13f1f4ae4734ba4c629629c436b8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff9fff42058ec676a629dbe752771761/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff9fff42058ec676a629dbe752771761/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cdcc51becbd71ef74747b842cc2ee989/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cdcc51becbd71ef74747b842cc2ee989/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8182275efa7fbe62299bd7d2e12fd07/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8182275efa7fbe62299bd7d2e12fd07/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:15:9-45
+activity#ca.ualberta.cs.lonelytwitter.LonelyTwitterActivity
+ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:18:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/src/main/AndroidManifest.xml:23:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a9893efed829fbbfdc09dd0ffef84027/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2bbcfea012dacabfaa9bed2dea0c961e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2bbcfea012dacabfaa9bed2dea0c961e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/195c6cf40bd38cbbffbcbbd149212cbd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/195c6cf40bd38cbbffbcbbd149212cbd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e4dc10af50f84c8ad79ed0701a596095/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e4dc10af50f84c8ad79ed0701a596095/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7cf69b69a23843fa39098a5ce7b9dbf4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7cf69b69a23843fa39098a5ce7b9dbf4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/58a91703556d39bc1fb4bd90b6a38adf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/58a91703556d39bc1fb4bd90b6a38adf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cb3f13f1f4ae4734ba4c629629c436b8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/cb3f13f1f4ae4734ba4c629629c436b8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff9fff42058ec676a629dbe752771761/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff9fff42058ec676a629dbe752771761/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cdcc51becbd71ef74747b842cc2ee989/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cdcc51becbd71ef74747b842cc2ee989/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a9893efed829fbbfdc09dd0ffef84027/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a9893efed829fbbfdc09dd0ffef84027/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8182275efa7fbe62299bd7d2e12fd07/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8182275efa7fbe62299bd7d2e12fd07/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kaixiangzhang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8182275efa7fbe62299bd7d2e12fd07/AndroidManifest.xml:26:13-58

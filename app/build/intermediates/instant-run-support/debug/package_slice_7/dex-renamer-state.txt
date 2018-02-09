@@ -1,0 +1,4 @@
+#Fri Feb 09 12:51:18 MST 2018
+base.0=/Users/kaixiangzhang/Desktop/lonelyTwitterActivity--for-Lab5/lonelyTwitter_lab5/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
